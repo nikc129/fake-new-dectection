@@ -1,5 +1,5 @@
 /major.ipynb
-/model
+/model/*
 /requirements.txt
 /tokenizer.pkl
 /type-1.py
